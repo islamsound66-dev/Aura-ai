@@ -1,0 +1,8 @@
+{
+  "name": "DocuVoice Studio",
+  "description": "YouTube documentary voiceover engine with Gemini multimodal audio, vocal profiles, dramatic pacing markers, and export pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
